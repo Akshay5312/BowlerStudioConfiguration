@@ -1,5 +1,21 @@
 {
+  "workspace": {
+    "https://github.com/Akshay5312/javaCad_Akshay5312.git": [
+      "Akshay5312/javaCad_Akshay5312",
+      "1613150581260"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {
+    "https://github.com/Akshay5312/sphere_Akshay5312.git:sphere.groovy": [
+      "https://github.com/Akshay5312/sphere_Akshay5312.git",
+      "sphere.groovy"
+    ],
+    "https://github.com/Akshay5312/javaCad_Akshay5312.git:javaCad.groovy": [
+      "https://github.com/Akshay5312/javaCad_Akshay5312.git",
+      "javaCad.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
