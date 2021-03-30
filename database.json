@@ -23,6 +23,10 @@
       "https://github.com/Akshay5312/sphere_Akshay5312.git",
       "sphere.groovy"
     ],
+    "https://github.com/Akshay5312/cylinder_Akshay5312.git:cylinder.groovy": [
+      "https://github.com/Akshay5312/cylinder_Akshay5312.git",
+      "cylinder.groovy"
+    ],
     "https://github.com/Akshay5312/Luna_copy.git:Luna_copy.xml": [
       "https://github.com/Akshay5312/Luna_copy.git",
       "Luna_copy.xml"
