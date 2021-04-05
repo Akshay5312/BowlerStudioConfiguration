@@ -1,8 +1,26 @@
 {
+  "workspace": {
+    "https://github.com/Akshay5312/HephaestusArmV2_copy.git": [
+      "Akshay5312/HephaestusArmV2_copy",
+      "1617645490213"
+    ]
+  },
+  "studio-open-web": {},
+  "studio-open-git": {
+    "https://github.com/Akshay5312/HephaestusArmV2_copy.git:HephaestusArmV2_copy.xml": [
+      "https://github.com/Akshay5312/HephaestusArmV2_copy.git",
+      "HephaestusArmV2_copy.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.27.2",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
     "skinBranch": "1.27.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "1.27.2"
+    "currentVersion": "1.27.2",
+    "notifiedArduinoDep": true
   }
 }
