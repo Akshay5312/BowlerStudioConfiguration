@@ -10,6 +10,10 @@
     "https://github.com/Akshay5312/HephaestusArmV2_copy.git:HephaestusArmV2_copy.xml": [
       "https://github.com/Akshay5312/HephaestusArmV2_copy.git",
       "HephaestusArmV2_copy.xml"
+    ],
+    "https://github.com/Akshay5312/HephaestusArmV2_copy.git:cadGenHephaestusArm.groovy": [
+      "https://github.com/Akshay5312/HephaestusArmV2_copy.git",
+      "cadGenHephaestusArm.groovy"
     ]
   },
   "BowlerStudioConfigs": {
@@ -17,7 +21,7 @@
     "firstVersion": "1.27.2",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 14,
     "skinBranch": "1.27.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "currentVersion": "1.27.0",
