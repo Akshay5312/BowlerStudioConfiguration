@@ -18,6 +18,10 @@
     "https://github.com/Akshay5312/HephaestusArmV2_copy.git:cadGenHephaestusArm.groovy": [
       "https://github.com/Akshay5312/HephaestusArmV2_copy.git",
       "cadGenHephaestusArm.groovy"
+    ],
+    "https://github.com/Akshay5312/kinematicsCad_Akshay5312.git:kinematicsCad.groovy": [
+      "https://github.com/Akshay5312/kinematicsCad_Akshay5312.git",
+      "kinematicsCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
